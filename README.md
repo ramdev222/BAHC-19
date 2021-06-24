@@ -1,3 +1,3 @@
 # BAHC-19
 For Nasa EO DashHack
-Download the pptx file and view. Thanks!
+Download the zip and view the pptx. Thanks!
